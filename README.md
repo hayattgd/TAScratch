@@ -9,6 +9,8 @@ An Utility for TAS/RTA scratch game. (WIP)
 * Sets condition to start/stop timer
 * Autosplit with user-defined condition.
 
+<sub>*Turbowarp is recommended more than forkphorus.</sub>
+
 ## How to use
 
 1. Import TAS.sprite3 to the game.
