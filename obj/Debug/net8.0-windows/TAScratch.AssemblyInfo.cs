@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TAScratch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fee8a5e5df73e0a898ed2f217d803438bdca9ce8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4298c9de4d4b1292b6e52080010fc41af0a47fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("TAScratch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TAScratch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
