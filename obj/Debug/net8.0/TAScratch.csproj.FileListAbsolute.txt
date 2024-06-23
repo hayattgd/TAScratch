@@ -12,3 +12,7 @@ S:\Workspace\Web\TAScratch\obj\Debug\net8.0\refint\TAScratch.dll
 S:\Workspace\Web\TAScratch\obj\Debug\net8.0\TAScratch.pdb
 S:\Workspace\Web\TAScratch\obj\Debug\net8.0\TAScratch.genruntimeconfig.cache
 S:\Workspace\Web\TAScratch\obj\Debug\net8.0\ref\TAScratch.dll
+S:\Workspace\Web\TAScratch\obj\Debug\net8.0\TAScratch.sourcelink.json
+S:\Workspace\Web\TAScratch\bin\Debug\net8.0\Newtonsoft.Json.dll
+S:\Workspace\Web\TAScratch\obj\Debug\net8.0\TAScratch.csproj.AssemblyReference.cache
+S:\Workspace\Web\TAScratch\obj\Debug\net8.0\TAScratch.csproj.Up2Date
