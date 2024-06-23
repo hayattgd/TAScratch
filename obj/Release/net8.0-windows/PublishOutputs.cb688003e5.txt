@@ -1,0 +1,6 @@
+S:\Workspace\Web\TAScratch\bin\Release\net8.0-windows\publish\TAScratch.exe
+S:\Workspace\Web\TAScratch\bin\Release\net8.0-windows\publish\TAScratch.dll
+S:\Workspace\Web\TAScratch\bin\Release\net8.0-windows\publish\TAScratch.deps.json
+S:\Workspace\Web\TAScratch\bin\Release\net8.0-windows\publish\TAScratch.runtimeconfig.json
+S:\Workspace\Web\TAScratch\bin\Release\net8.0-windows\publish\TAScratch.pdb
+S:\Workspace\Web\TAScratch\bin\Release\net8.0-windows\publish\Newtonsoft.Json.dll

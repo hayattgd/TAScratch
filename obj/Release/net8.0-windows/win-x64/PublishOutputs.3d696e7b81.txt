@@ -1,0 +1,2 @@
+S:\Workspace\Web\TAScratch\bin\Release\net8.0-windows\win-x64\publish\TAScratch.pdb
+S:\Workspace\Web\TAScratch\bin\Release\net8.0-windows\win-x64\publish\TAScratch.exe
